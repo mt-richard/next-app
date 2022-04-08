@@ -1,4 +1,4 @@
-/*eslint-disable */ bi
+/*eslint-disable */ 
 import Head from "next/head";
 
 
