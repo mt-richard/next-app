@@ -1,3 +1,4 @@
+/*eslint-disable */ bi
 import Head from "next/head";
 
 
